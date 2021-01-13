@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/frank/CLionProjects/AES_main/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+getopt.h
+-
+string
+-
+stdlib.h
+-
+ctime
+-
+util.h
+/home/frank/CLionProjects/AES_main/util.h
+
+/home/frank/CLionProjects/AES_main/util.h
+iostream
+-
+cmath
+-
+

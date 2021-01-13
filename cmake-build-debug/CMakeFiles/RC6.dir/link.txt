@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/RC6.dir/main.cpp.o CMakeFiles/RC6.dir/util.cpp.o  -o RC6 
